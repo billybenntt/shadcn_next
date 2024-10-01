@@ -1,4 +1,4 @@
-# [shadcn/ui sidebar](https://shadcn-ui-sidebar.salimi.my) &middot; [![Author Salimi](https://img.shields.io/badge/Author-Salimi-%3C%3E)](https://www.salimi.my)
+# [shadcn/ui sidebar](https://shadcn-ui-sidebar.salimi.my) &middot; [![Author Bill](https://img.shields.io/badge/Author-billbenntt-%3C%3E)](https://www.houseofthe.app)
 
 A stunning and functional retractable sidebar for Next.js built on top of [shadcn/ui](https://ui.shadcn.com) complete with desktop and mobile responsiveness.
 
@@ -24,13 +24,13 @@ A stunning and functional retractable sidebar for Next.js built on top of [shadc
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/salimi-my/shadcn-ui-sidebar
+   git clone git@github.com:billybenntt/shadcn_next.git
    ```
 
 2. Install dependencies
 
    ```bash
-   cd shadcn-ui-sidebar
+   cd shadcn_next
    npm install
    ```
 
@@ -40,11 +40,6 @@ A stunning and functional retractable sidebar for Next.js built on top of [shadc
    npm run dev
    ```
 
-## Demo
-
-The app is hosted on Vercel. [Click here](https://shadcn-ui-sidebar.salimi.my) to visit.
-<br>
-Direct demo link: `https://shadcn-ui-sidebar.salimi.my`
 
 ## Screenshots
 
